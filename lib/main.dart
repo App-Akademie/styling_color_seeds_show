@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-/// Flutter code sample for [ColorScheme].
-
 const Widget divider = SizedBox(height: 10);
 
 void main() => runApp(const ColorSchemeExample());
